@@ -38,5 +38,5 @@ cd ../../
 # tar cvf reports.tar currency  mutual 
 # bzip2 --best reports.tar
 
-# git commit -m "Commit for `date`" .
-# git push
+git commit -m "Commit for `date`" .
+git push
