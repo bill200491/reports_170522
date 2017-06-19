@@ -42,8 +42,16 @@ mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
 cd ../../
 
+dirName=170601
+cd mutual
+rm -rf $dirName
+mkdir $dirName && cd $dirName
+cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cd ../../
+
+
 # tar cvf reports.tar currency  mutual 
 # bzip2 --best reports.tar
 
-#git commit -m "Commit for `date`" .
-#git push
+# git commit -m "Commit for `date`" .
+# git push
