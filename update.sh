@@ -5,6 +5,7 @@ cd currency
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.currency/$dirName/report/NTD* .
+cp -r ../../../elliot.currency/$dirName/simList.json .
 cd ../../
 
 dirName=170501
@@ -12,6 +13,7 @@ cd currency
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.currency/$dirName/report/NTD* .
+cp -r ../../../elliot.currency/$dirName/simList.json .
 cd ../../
 
 dirName=170101
@@ -19,6 +21,7 @@ cd mutual
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
 cd ../../
 
 dirName=170201
@@ -26,6 +29,7 @@ cd mutual
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
 cd ../../
 
 dirName=170401
@@ -33,6 +37,7 @@ cd mutual
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
 cd ../../
 
 dirName=170501
@@ -40,6 +45,7 @@ cd mutual
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
 cd ../../
 
 dirName=170601
@@ -47,7 +53,10 @@ cd mutual
 rm -rf $dirName
 mkdir $dirName && cd $dirName
 cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
-cd ../../
+cp -r ../../../elliot.mutual/$dirName/simList.json .
+cd ..
+cp -r ../../elliot.mutual/fundList.json .
+cd ..
 
 
 # tar cvf reports.tar currency  mutual 

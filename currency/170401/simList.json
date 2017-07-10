@@ -1,0 +1,9 @@
+{
+    "NTD":[
+	{"endDate":"2007-01-01", "portion":0.1, "cost":0.001, "curID":"2206", "id":"NONE", "date":"2006-06-01", "model":"fundSim_mdl06e", "name":"USD-TWD"},
+	{"endDate":"2007-01-01", "portion":0.1, "cost":0.001, "curID":"9540", "id":"NONE", "date":"2006-06-01", "model":"fundSim_mdl06e", "name":"CNY-TWD"},
+	{"endDate":"2007-01-01", "portion":0.1, "cost":0.001, "curID":"1498", "id":"NONE", "date":"2006-06-01", "model":"fundSim_mdl06e", "name":"AUD-TWD"},
+	{"endDate":"2007-01-01", "portion":0.1, "cost":0.001, "curID":"1707", "id":"NONE", "date":"2006-06-01", "model":"fundSim_mdl06e", "name":"EUR-TWD"},
+	{"endDate":"2007-01-01", "portion":0.1, "cost":0.001, "curID":"1909", "id":"NONE", "date":"2006-06-01", "model":"fundSim_mdl06e", "name":"JPY-TWD"}
+    ]
+}
