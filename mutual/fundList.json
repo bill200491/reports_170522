@@ -1,7 +1,7 @@
 {
     "jpmorgan":[
-        {"units":48.678,  "cost":13074.5,  "minPay":2500, "slvRlt":"170401", "name":"JPMorgan India (acc) USD" },
-        {"units":75.888,  "cost":3523.1,   "minPay":2500, "slvRlt":"170601", "name":"JPM Europe Equity A (dist) USD" },
+        {"units":15.759,  "cost":2014,     "minPay":2500, "slvRlt":"170601", "name":"JPMorgan ASEAN (acc) - USD" },
+        {"units":77.243,  "cost":21130.5,  "minPay":2500, "slvRlt":"170401", "name":"JPMorgan India (acc) USD" },
         {"units":767.282, "cost":9046.35,  "minPay":2500, "slvRlt":"170501", "name":"JPM US Growth A (dist) USD" },
         {"units":786.619, "cost":7257.95,  "minPay":2500, "slvRlt":"170501", "name":"JPM Russia A (dist) USD" },
         {"units":489.423, "cost":7880.46,  "minPay":2500, "slvRlt":"170401", "name":"JPM Global Corp Bd A (acc) USD" },
@@ -10,9 +10,9 @@
         {"units":169.145, "cost":6033.3,   "minPay":2500, "slvRlt":"170401", "name":"JPM Greater China A (dist) USD" },
         {"units":141.763, "cost":29125.58, "minPay":2500, "slvRlt":"170501", "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":282.675, "cost":4027.2,   "minPay":2500, "slvRlt":"170101", "name":"JPM US Technology A (dist) USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPMorgan ASEAN (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPMorgan Korea (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM China A (dist) USD" },
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPM Europe Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPM Global High Yield Bd A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170401", "name":"JPM America Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM US Value A (dist) - USD" },
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":72602.36, "principal":160000.00, "minReturn":0.10, "leverage":5.0, "minPay":2000, "maxPay":4000, "tolPay":25000, "payMode":"cost"}
+        {"buffer":136126.46, "principal":160000.00, "minReturn":0.10, "leverage":5.0, "minPay":2000, "maxPay":4000, "tolPay":25000, "payMode":"cost"}
     }
     
 }
