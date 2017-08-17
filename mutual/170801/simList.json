@@ -2,7 +2,7 @@
     "jpmorgan":[
 	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM US Smlr Coms A (dist) perf USD"},
 	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM America Equity A (dist) USD"},
-	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM Europe Equity A (dist) USD"},
+	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM Europe Equity A (dist) USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPMorgan ASEAN (acc) - USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM US Value A (dist) - USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"MU0129U00005", "id":"F0GBR060HM", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPMorgan India (acc) USD"},
