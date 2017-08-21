@@ -1,14 +1,14 @@
 {
     "jpmorgan":[
-        {"units":50.155,  "cost":7549.25,  "minPay":2500, "slvRlt":"170501", "name":"JPM Europe Dynamic A (acc) USD" },
         {"units":333.923, "cost":5376.68,  "minPay":2500, "slvRlt":"170601", "name":"JPM Global Corp Bd A (acc) USD" },
         {"units":11.536,  "cost":2036.64,  "minPay":2500, "slvRlt":"170501", "name":"JPM Global Income A (acc) USD" },
         {"units":39.306,  "cost":5035.30,  "minPay":2500, "slvRlt":"170601", "name":"JPMorgan ASEAN (acc) - USD" },
         {"units":780.39,  "cost":30206.10, "minPay":2500, "slvRlt":"170501", "name":"JPM Greater China A (dist) USD" },
         {"units":76.857,  "cost":21130.70, "minPay":2500, "slvRlt":"170601", "name":"JPMorgan India (acc) USD" },
-        {"units":599.882, "cost":7072.69,  "minPay":2500, "slvRlt":"170501", "name":"JPM US Growth A (dist) USD" },
+        {"units":599.882, "cost":7072.69,  "minPay":2500, "slvRlt":"170601", "name":"JPM US Growth A (dist) USD" },
         {"units":141.335, "cost":2013.57,  "minPay":2500, "slvRlt":"170601", "name":"JPM US Technology A (dist) USD" },
         {"units":192.915, "cost":5037.40,  "minPay":2500, "slvRlt":"170501", "name":"JPM US Value A (dist) - USD" },
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM Europe Dynamic A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170401", "name":"JPMorgan Korea (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM China A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM Russia A (dist) USD" },
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":150560.89, "principal":160000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":4500, "tolPay":30000, "payMode":"cost"}
+        {"buffer":158122.21, "principal":160000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":4500, "tolPay":30000, "payMode":"cost"}
     }
     
 }
