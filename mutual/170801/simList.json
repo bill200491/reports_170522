@@ -7,7 +7,7 @@
 	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM US Value A (dist) - USD"},
 	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"MU0129U00005", "id":"F0GBR060HM", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPMorgan India (acc) USD"},
 	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0117838564", "id":"F0GBR04BY6", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM US Aggregate Bond A (inc) USD"},
-	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0051755006", "id":"F0GBR04SN7", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM China A (dist) USD"},
+	{"endDate":"2007-06-01", "portion":0.1, "cost":0.001, "isin":"LU0051755006", "id":"F0GBR04SN7", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM China A (dist) USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0053687314", "id":"F0GBR04SNN", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM Latin America Eq A (dist) USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0215049551", "id":"F0GBR064TY", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM Russia A (dist) USD"},
 	{"endDate":"2007-04-01", "portion":0.1, "cost":0.001, "isin":"LU0117841782", "id":"F0GBR04M17", "date":"2006-06-01", "model":"fundSim_mdl06f", "name":"JPM Greater China A (dist) USD"},
