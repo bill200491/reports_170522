@@ -2,10 +2,10 @@
     "jpmorgan":[
         {"units":26.598,  "cost":4536.00,  "minPay":2500, "slvRlt":"170401", "name":"JPM America Equity A (dist) USD" },
         {"units":333.923, "cost":5376.68,  "minPay":2500, "slvRlt":"170601", "name":"JPM Global Corp Bd A (acc) USD" },
-        {"units":39.306,  "cost":5035.30,  "minPay":2500, "slvRlt":"170601", "name":"JPMorgan ASEAN (acc) - USD" },
+        {"units":39.306,  "cost":5035.30,  "minPay":2500, "slvRlt":"170801", "name":"JPMorgan ASEAN (acc) - USD" },
         {"units":780.39,  "cost":30206.10, "minPay":2500, "slvRlt":"170501", "name":"JPM Greater China A (dist) USD" },
         {"units":76.857,  "cost":21130.70, "minPay":2500, "slvRlt":"170601", "name":"JPMorgan India (acc) USD" },
-        {"units":52.336,  "cost":3024.00,  "minPay":2500, "slvRlt":"170401", "name":"JPMorgan Korea (acc) - USD" },
+        {"units":52.336,  "cost":3024.00,  "minPay":2500, "slvRlt":"170501", "name":"JPMorgan Korea (acc) - USD" },
         {"units":955.31,  "cost":11608.24, "minPay":2500, "slvRlt":"170601", "name":"JPM US Growth A (dist) USD" },
         {"units":141.335, "cost":2013.57,  "minPay":2500, "slvRlt":"170601", "name":"JPM US Technology A (dist) USD" },
         {"units":547.149, "cost":14108.80, "minPay":2500, "slvRlt":"170601", "name":"JPM US Value A (dist) - USD" },
