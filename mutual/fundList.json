@@ -1,9 +1,9 @@
 {
     "jpmorgan":[
-        {"units":26.598,  "cost":4536.00,  "minPay":2500, "slvRlt":"170401", "name":"JPM America Equity A (dist) USD" },
+        {"units":26.598,  "cost":4536.00,  "minPay":2500, "slvRlt":"170601", "name":"JPM America Equity A (dist) USD" },
         {"units":333.923, "cost":5376.68,  "minPay":2500, "slvRlt":"170601", "name":"JPM Global Corp Bd A (acc) USD" },
         {"units":19.646,  "cost":2516.76,  "minPay":2500, "slvRlt":"170801", "name":"JPMorgan ASEAN (acc) - USD" },
-        {"units":780.39,  "cost":30206.10, "minPay":2500, "slvRlt":"170501", "name":"JPM Greater China A (dist) USD" },
+        {"units":1110.505,"cost":43818.15, "minPay":2500, "slvRlt":"170501", "name":"JPM Greater China A (dist) USD" },
         {"units":76.857,  "cost":21130.70, "minPay":2500, "slvRlt":"170601", "name":"JPMorgan India (acc) USD" },
         {"units":52.336,  "cost":3024.00,  "minPay":2500, "slvRlt":"170501", "name":"JPMorgan Korea (acc) - USD" },
         {"units":92.211,  "cost":4537.35,  "minPay":2500, "slvRlt":"170801", "name":"JPM Latin America Eq A (dist) USD" },
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":121426.04, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":4500, "tolPay":30000, "payMode":"cost"}
+        {"buffer":107813.99, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":5000, "tolPay":45000, "payMode":"cost"}
     }
     
 }
