@@ -1,3 +1,72 @@
+==================================================================================2017-09-14==========================================================================================
+*************************************************************************************************************************************************************
+maxCost:  3155.92 Pcpl:230000.00(354353.46) TR:0.25116 lbP:579152.70 Risk:0.91095 (64540.45 59813.01)
+                              JPM Global Corp Bd A (acc) USD  0 T--- pay: 5000.00 <  5000.00 UR:5.81958 Bnds:(1 5)
+                                  JPMorgan ASEAN (acc) - USD  1 T--- pay: 5000.00 <  5000.00 UR:2.38943 Bnds:(3 5)
+                              JPM Greater China A (dist) USD  2 T--- pay: 5000.00 <  5000.00 UR:10.34795 Bnds:(3 1)
+                                    JPMorgan India (acc) USD  3 T--- pay: 3000.00 <  3000.00 UR:0.71684 Bnds:(5 1)
+                                  JPMorgan Korea (acc) - USD  4 T--- pay: 1500.00 <  1500.00 UR:3.29489 Bnds:(9 4)
+                           JPM Latin America Eq A (dist) USD  5 T--- pay: 5000.00 <  5000.00 UR:1.38460 Bnds:(1 1)
+                          JPM US Smlr Coms A (dist) perf USD  6 T--- pay: 3000.00 <  3000.00 UR:1.66341 Bnds:(5 5)
+                                  JPM US Growth A (dist) USD  7 T--- pay: 3000.00 <  3000.00 UR:22.34897 Bnds:(5 4)
+                              JPM US Technology A (dist) USD  8 T--- pay: 5000.00 <  5000.00 UR:11.08927 Bnds:(2 5)
+                                 JPM US Value A (dist) - USD  9 T--- pay: 1607.14 <  1607.14 UR:7.68338 Bnds:(7 5)
+                              JPM Europe Dynamic A (acc) USD 10 T--- pay: 5000.00 <  5000.00 UR:1.04737 Bnds:(1 1)
+                             JPM America Equity A (dist) USD 11 T--- pay: 5000.00 <  5000.00 UR:0.46264 Bnds:(1 5)
+                               JPM Global Income A (acc) USD 12 T--- pay: 5000.00 <  5000.00 UR:1.18934 Bnds:(3 3)
+                                      JPM China A (dist) USD 13 T--- pay: 5000.00 <  5000.00 UR:1.13719 Bnds:(1 1)
+                                     JPM Russia A (dist) USD 14 T--- pay: 5000.00 <  5000.00 UR:20.72717 Bnds:(3 3)
+                              JPM Europe Equity A (dist) USD 15 T--- pay: 5000.00 <  5000.00 UR:2.37930 Bnds:(1 1)
+                        JPM Global High Yield Bd A (acc) USD 16 T--- pay: 4500.00 <  4500.00 UR:1.86412 Bnds:(4 3)
+                           JPM US Aggregate Bond A (inc) USD 17 T--- pay: 5000.00 <  5000.00 UR:5.78122 Bnds:(1 1)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+==================================================================================2017-09-13==========================================================================================
+*************************************************************************************************************************************************************
+maxCost:  3155.92 Pcpl:230000.00(354353.46) TR:0.25199 lbP:580263.62 Risk:0.91117 (64540.45 59813.01)
+                              JPM Global Corp Bd A (acc) USD  0 T--- pay: 5000.00 <  5000.00 UR:5.81958 Bnds:(1 5)
+                                  JPMorgan ASEAN (acc) - USD  1 T--- pay: 5000.00 <  5000.00 UR:2.39070 Bnds:(3 5)
+                              JPM Greater China A (dist) USD  2 T--- pay: 5000.00 <  5000.00 UR:10.34795 Bnds:(3 1)
+                                    JPMorgan India (acc) USD  3 T--- pay: 3000.00 <  3000.00 UR:0.72190 Bnds:(5 1)
+                                  JPMorgan Korea (acc) - USD  4 T--- pay: 1500.00 <  1500.00 UR:3.30961 Bnds:(9 4)
+                           JPM Latin America Eq A (dist) USD  5 T--- pay: 5000.00 <  5000.00 UR:1.38348 Bnds:(1 1)
+                          JPM US Smlr Coms A (dist) perf USD  6 T--- pay: 3000.00 <  3000.00 UR:1.66945 Bnds:(5 5)
+                                  JPM US Growth A (dist) USD  7 T--- pay: 3000.00 <  3000.00 UR:22.33177 Bnds:(5 4)
+                              JPM US Technology A (dist) USD  8 T--- pay: 5000.00 <  5000.00 UR:11.08927 Bnds:(2 5)
+                                 JPM US Value A (dist) - USD  9 T--- pay: 1607.14 <  1607.14 UR:7.68640 Bnds:(7 5)
+                              JPM Europe Dynamic A (acc) USD 10 T--- pay: 5000.00 <  5000.00 UR:1.04498 Bnds:(1 1)
+                             JPM America Equity A (dist) USD 11 T--- pay: 5000.00 <  5000.00 UR:0.46144 Bnds:(1 5)
+                               JPM Global Income A (acc) USD 12 T--- pay: 5000.00 <  5000.00 UR:1.18934 Bnds:(3 3)
+                                      JPM China A (dist) USD 13 T--- pay: 5000.00 <  5000.00 UR:1.14555 Bnds:(1 1)
+                                     JPM Russia A (dist) USD 14 T--- pay: 5000.00 <  5000.00 UR:20.91675 Bnds:(3 3)
+                              JPM Europe Equity A (dist) USD 15 T--- pay: 5000.00 <  5000.00 UR:2.38724 Bnds:(1 1)
+                        JPM Global High Yield Bd A (acc) USD 16 T--- pay: 4500.00 <  4500.00 UR:1.86412 Bnds:(4 3)
+                           JPM US Aggregate Bond A (inc) USD 17 T--- pay: 5000.00 <  5000.00 UR:5.70656 Bnds:(1 1)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+==================================================================================2017-09-12==========================================================================================
+*************************************************************************************************************************************************************
+maxCost:  3155.92 Pcpl:230000.00(354353.46) TR:0.25104 lbP:578707.98 Risk:0.91139 (64540.45 59813.01)
+                             JPM America Equity A (dist) USD  0 T--- pay: 5000.00 <  5000.00 UR:0.46144 Bnds:(1 5)
+                              JPM Global Corp Bd A (acc) USD  1 T--- pay: 5000.00 <  5000.00 UR:5.79566 Bnds:(1 5)
+                                  JPMorgan ASEAN (acc) - USD  2 T--- pay: 5000.00 <  5000.00 UR:2.39217 Bnds:(3 5)
+                              JPM Greater China A (dist) USD  3 T--- pay: 5000.00 <  5000.00 UR:10.35045 Bnds:(3 1)
+                                    JPMorgan India (acc) USD  4 T--- pay: 3000.00 <  3000.00 UR:0.72881 Bnds:(5 1)
+                                  JPMorgan Korea (acc) - USD  5 T--- pay: 1500.00 <  1500.00 UR:3.30665 Bnds:(9 4)
+                           JPM Latin America Eq A (dist) USD  6 T--- pay: 5000.00 <  5000.00 UR:1.36477 Bnds:(1 1)
+                          JPM US Smlr Coms A (dist) perf USD  7 T--- pay: 3000.00 <  3000.00 UR:1.69096 Bnds:(5 5)
+                                  JPM US Growth A (dist) USD  8 T--- pay: 3000.00 <  3000.00 UR:22.24614 Bnds:(5 4)
+                              JPM US Technology A (dist) USD  9 T--- pay: 5000.00 <  5000.00 UR:11.20090 Bnds:(2 5)
+                                 JPM US Value A (dist) - USD 10 T--- pay: 1607.14 <  1607.14 UR:7.65634 Bnds:(7 5)
+                              JPM Europe Dynamic A (acc) USD 11 T--- pay: 5000.00 <  5000.00 UR:1.04857 Bnds:(1 1)
+                               JPM Global Income A (acc) USD 12 T--- pay: 5000.00 <  5000.00 UR:1.19081 Bnds:(3 3)
+                                      JPM China A (dist) USD 13 T--- pay: 5000.00 <  5000.00 UR:1.14574 Bnds:(1 1)
+                                     JPM Russia A (dist) USD 14 T--- pay: 5000.00 <  5000.00 UR:20.19831 Bnds:(3 3)
+                              JPM Europe Equity A (dist) USD 15 T--- pay: 5000.00 <  5000.00 UR:2.34997 Bnds:(1 1)
+                        JPM Global High Yield Bd A (acc) USD 16 T--- pay: 4500.00 <  4500.00 UR:1.86456 Bnds:(4 3)
+                           JPM US Aggregate Bond A (inc) USD 17 T--- pay: 5000.00 <  5000.00 UR:5.70656 Bnds:(1 1)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ==================================================================================2017-09-11==========================================================================================
 *************************************************************************************************************************************************************
 maxCost:  3155.92 Pcpl:230000.00(354353.46) TR:0.25182 lbP:580626.75 Risk:0.91161 (64540.45 59813.01)
