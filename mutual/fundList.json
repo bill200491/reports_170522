@@ -1,11 +1,12 @@
 {
     "jpmorgan":[
-        {"units":133.573, "cost":2150.74,  "minPay":2500, "slvRlt":"170801", "name":"JPM Global Corp Bd A (acc) USD" },
+        {"units":726.714, "cost":12238.74, "minPay":2500, "slvRlt":"170801", "name":"JPM Global Corp Bd A (acc) USD" },
         {"units":35.689,  "cost":4634.82,  "minPay":2500, "slvRlt":"170801", "name":"JPMorgan ASEAN (acc) - USD" },
         {"units":1170.061,"cost":46339.65, "minPay":2500, "slvRlt":"170501", "name":"JPM Greater China A (dist) USD" },
         {"units":55.707,  "cost":15315.82, "minPay":2500, "slvRlt":"170801", "name":"JPMorgan India (acc) USD" },
         {"units":372.979, "cost":21177.30, "minPay":2500, "slvRlt":"170501", "name":"JPMorgan Korea (acc) - USD" },
         {"units":92.211,  "cost":4537.35,  "minPay":2500, "slvRlt":"170801", "name":"JPM Latin America Eq A (dist) USD" },
+        {"units":504.916, "cost":5044.00,  "minPay":2500, "slvRlt":"170501", "name":"JPM Russia A (dist) USD" },
         {"units":77.818,  "cost":16541.08, "minPay":2500, "slvRlt":"170801", "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":1653.198,"cost":20682.04, "minPay":2500, "slvRlt":"170601", "name":"JPM US Growth A (dist) USD" },
         {"units":141.335, "cost":2013.57,  "minPay":2500, "slvRlt":"170601", "name":"JPM US Technology A (dist) USD" },
@@ -14,7 +15,6 @@
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPM America Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM Global Income A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM China A (dist) USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM Russia A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPM Europe Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170401", "name":"JPM Global High Yield Bd A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM US Aggregate Bond A (inc) USD" }
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":78616.89, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":5000, "tolPay":45000, "payMode":"cost"}
+        {"buffer":63484.89, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":5000, "tolPay":45000, "payMode":"cost"}
     }
     
 }
