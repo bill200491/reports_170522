@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":48357.69, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":1500, "maxPay":5000, "tolPay":45000, "payMode":"cost"}
+        {"buffer":48357.69, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":2000, "maxPay":5000, "tolPay":50000, "payMode":"cost"}
     }
     
 }
