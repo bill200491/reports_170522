@@ -7,7 +7,7 @@
         {"units":75.013,  "cost":5050.50,  "minPay":2500, "slvRlt":"170501", "name":"JPM China A (dist) USD" },
         {"units":439.419, "cost":17403.77, "minPay":2500, "slvRlt":"171001", "name":"JPM Greater China A (dist) USD" },
         {"units":79.751,  "cost":22807.38, "minPay":2500, "slvRlt":"171001", "name":"JPMorgan India (acc) USD" },
-        {"units":496.29,  "cost":28321.70, "minPay":2500, "slvRlt":"170601", "name":"JPMorgan Korea (acc) - USD" },
+        {"units":496.29,  "cost":28321.70, "minPay":2500, "slvRlt":"171001", "name":"JPMorgan Korea (acc) - USD" },
         {"units":412.041, "cost":5047.00,  "minPay":2500, "slvRlt":"171001", "name":"JPM US Aggregate Bond A (inc) USD" },
         {"units":105.194, "cost":22607.96, "minPay":2500, "slvRlt":"171001", "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":2670.864,"cost":33837.62, "minPay":2500, "slvRlt":"170601", "name":"JPM US Growth A (dist) USD" },
