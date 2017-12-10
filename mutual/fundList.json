@@ -1,10 +1,11 @@
 {
     "jpmorgan":[
         {"units":13.187,  "cost":2321.16,  "minPay":2500, "slvRlt":"170601", "name":"JPM America Equity A (dist) USD" },
-        {"units":32.117,  "cost":5051.50,  "minPay":2500, "slvRlt":"170501", "name":"JPM Europe Dynamic A (acc) USD" },
+        {"units":32.117,  "cost":5051.50,  "minPay":2500, "slvRlt":"171001", "name":"JPM Europe Dynamic A (acc) USD" },
         {"units":1469.118,"cost":24962.00, "minPay":2500, "slvRlt":"170801", "name":"JPM Global Corp Bd A (acc) USD" },
         {"units":89.296,  "cost":15153.50, "minPay":2500, "slvRlt":"170801", "name":"JPM Global High Yield Bd A (acc) USD" },
         {"units":39.305,  "cost":5169.47,  "minPay":2500, "slvRlt":"171001", "name":"JPMorgan ASEAN (acc) - USD" },
+        {"units":42.050,  "cost":2021.40,  "minPay":2500, "slvRlt":"170801", "name":"JPM Europe Equity A (dist) USD" },
         {"units":439.419, "cost":17403.77, "minPay":2500, "slvRlt":"171001", "name":"JPM Greater China A (dist) USD" },
         {"units":122.352, "cost":35136.70, "minPay":2500, "slvRlt":"171001", "name":"JPMorgan India (acc) USD" },
         {"units":106.124, "cost":5052.50,  "minPay":2500, "slvRlt":"170801", "name":"JPM Latin America Eq A (dist) USD" },
@@ -15,7 +16,6 @@
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM Global Income A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171001", "name":"JPMorgan Korea (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170501", "name":"JPM China A (dist) USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170801", "name":"JPM Europe Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPM Russia A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170601", "name":"JPM US Technology A (dist) USD" }
     ],
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":47735.69, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":10, "maxPay":5000, "tolPay":50000, "payMode":"cost"}
+        {"buffer":45719.01 , "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":10, "maxPay":5000, "tolPay":50000, "payMode":"cost"}
     }
     
 }
