@@ -1,3 +1,87 @@
+=========================================================2018-01-12=========================================================
+ 0                              JPM America Equity A (dist) USD price:192.82 unit:  13.19 cost: 2321.16( 28721.4, 13) value: 2542.72 ret:0.0955
+ 1                               JPM Europe Dynamic A (acc) USD price:163.84 unit:  64.33 cost:10105.50( 31732.9,  2) value:10539.50 ret:0.0429
+ 2                               JPM Global Corp Bd A (acc) USD price: 17.12 unit:1469.12 cost:24962.00(101883.9,  2) value:25151.30 ret:0.0076
+ 3                         JPM Global High Yield Bd A (acc) USD price:172.40 unit:  89.30 cost:15153.50( 19140.3,  2) value:15394.63 ret:0.0159
+ 4                                   JPMorgan ASEAN (acc) - USD price:147.46 unit: 234.47 cost:33486.47( 61569.4,  4) value:34574.95 ret:0.0325
+ 5                                       JPM China A (dist) USD price: 71.37 unit:  86.05 cost: 6069.00(  5995.0,  1) value: 6141.17 ret:0.0119
+ 6                               JPM Europe Equity A (dist) USD price: 51.46 unit:  87.52 cost: 4348.31( 35870.6,  9) value: 4503.83 ret:0.0358
+ 7                                     JPMorgan India (acc) USD price:309.14 unit: 155.91 cost:45248.70( 68506.8,  3) value:48199.56 ret:0.0652
+ 8                            JPM Latin America Eq A (dist) USD price: 49.30 unit: 106.12 cost: 5052.50(  7745.2,  1) value: 5231.91 ret:0.0355
+ 9                                      JPM Russia A (dist) USD price: 10.76 unit: 577.90 cost: 6069.00( 34248.4,  9) value: 6218.20 ret:0.0246
+10                           JPM US Smlr Coms A (dist) perf USD price:228.90 unit: 105.19 cost:22607.96( 21427.6, 10) value:24078.91 ret:0.0651
+11                                   JPM US Growth A (dist) USD price: 14.75 unit:2284.98 cost:28948.86( 96691.6,  5) value:33703.51 ret:0.1642
+12                               JPM US Technology A (dist) USD price: 17.14 unit: 311.31 cost: 5054.00( 27720.7,  3) value: 5335.84 ret:0.0558
+13                                  JPM US Value A (dist) - USD price: 28.10 unit: 844.36 cost:21755.09( 52464.4,  3) value:23726.52 ret:0.0906
+14                                JPM Global Income A (acc) USD price:184.73 unit:   0.00 cost:    0.00( 27660.5,  3) value:    0.00 ret:-1.0000
+15                                   JPMorgan Korea (acc) - USD price: 63.66 unit:   0.00 cost:    0.00( 62939.5,  5) value:    0.00 ret:-1.0000
+16                            JPM US Aggregate Bond A (inc) USD price: 12.15 unit:   0.00 cost:    0.00(  6488.9,  1) value:    0.00 ret:-1.0000
+17                               JPM Greater China A (dist) USD price: 47.95 unit:   0.00 cost:    0.00( 18903.8,  8) value:    0.00 ret:-1.0000
+Buffer: 15130.07 Total cost:231182.05 Total value:245342.55 return:0.0613 asset:260472.6218
+
+=========================================================2018-01-11=========================================================
+ 0                              JPM America Equity A (dist) USD price:191.57 unit:  13.19 cost: 2321.16( 28908.8, 13) value: 2526.23 ret:0.0883
+ 1                               JPM Europe Dynamic A (acc) USD price:163.16 unit:  64.33 cost:10105.50( 31865.2,  2) value:10495.76 ret:0.0386
+ 2                               JPM Global Corp Bd A (acc) USD price: 17.10 unit:1469.12 cost:24962.00(102003.1,  2) value:25121.92 ret:0.0064
+ 3                         JPM Global High Yield Bd A (acc) USD price:172.54 unit:  89.30 cost:15153.50( 19124.8,  2) value:15407.13 ret:0.0167
+ 4                                   JPMorgan ASEAN (acc) - USD price:147.07 unit: 234.47 cost:33486.47( 61732.7,  4) value:34483.50 ret:0.0298
+ 5                                       JPM China A (dist) USD price: 71.43 unit:  86.05 cost: 6069.00(  5989.9,  1) value: 6146.34 ret:0.0127
+ 6                               JPM Europe Equity A (dist) USD price: 51.15 unit:  87.52 cost: 4348.31( 36088.0,  9) value: 4476.70 ret:0.0295
+ 7                                     JPMorgan India (acc) USD price:309.11 unit: 155.91 cost:45248.70( 68513.5,  3) value:48194.89 ret:0.0651
+ 8                            JPM Latin America Eq A (dist) USD price: 49.17 unit: 106.12 cost: 5052.50(  7765.7,  1) value: 5218.12 ret:0.0328
+ 9                                      JPM Russia A (dist) USD price: 10.65 unit: 577.90 cost: 6069.00( 34602.2,  9) value: 6154.64 ret:0.0141
+10                           JPM US Smlr Coms A (dist) perf USD price:227.68 unit: 105.19 cost:22607.96( 21542.4, 10) value:23950.57 ret:0.0594
+11                                   JPM US Growth A (dist) USD price: 14.62 unit:2284.98 cost:28948.86( 97551.4,  5) value:33406.47 ret:0.1540
+12                               JPM US Technology A (dist) USD price: 17.01 unit: 311.31 cost: 5054.00( 28456.0,  3) value: 5295.37 ret:0.0478
+13                                  JPM US Value A (dist) - USD price: 27.97 unit: 844.36 cost:21755.09( 52708.3,  3) value:23616.75 ret:0.0856
+14                                JPM Global Income A (acc) USD price:184.69 unit:   0.00 cost:    0.00( 27666.5,  3) value:    0.00 ret:-1.0000
+15                                   JPMorgan Korea (acc) - USD price: 63.46 unit:   0.00 cost:    0.00( 63137.9,  5) value:    0.00 ret:-1.0000
+16                            JPM US Aggregate Bond A (inc) USD price: 12.14 unit:   0.00 cost:    0.00(  6494.2,  1) value:    0.00 ret:-1.0000
+17                               JPM Greater China A (dist) USD price: 48.01 unit:   0.00 cost:    0.00( 18880.2,  8) value:    0.00 ret:-1.0000
+Buffer: 15130.07 Total cost:231182.05 Total value:244494.37 return:0.0576 asset:259624.4380
+
+=========================================================2018-01-10=========================================================
+ 0                              JPM America Equity A (dist) USD price:191.82 unit:  13.19 cost: 2321.16( 28871.1, 13) value: 2529.53 ret:0.0898
+ 1                               JPM Europe Dynamic A (acc) USD price:162.32 unit:  64.33 cost:10105.50( 32030.1,  2) value:10441.72 ret:0.0333
+ 2                               JPM Global Corp Bd A (acc) USD price: 17.14 unit:1469.12 cost:24962.00(101765.0,  2) value:25180.68 ret:0.0088
+ 3                         JPM Global High Yield Bd A (acc) USD price:172.91 unit:  89.30 cost:15153.50( 19083.9,  2) value:15440.17 ret:0.0189
+ 4                                   JPMorgan ASEAN (acc) - USD price:147.16 unit: 234.47 cost:33486.47( 61694.9,  4) value:34504.61 ret:0.0304
+ 5                                       JPM China A (dist) USD price: 71.31 unit:  86.05 cost: 6069.00(  6000.0,  1) value: 6136.01 ret:0.0110
+ 6                               JPM Europe Equity A (dist) USD price: 50.88 unit:  87.52 cost: 4348.31( 37334.3,  9) value: 4453.07 ret:0.0241
+ 7                                     JPMorgan India (acc) USD price:310.87 unit: 155.91 cost:45248.70( 68125.6,  3) value:48469.30 ret:0.0712
+ 8                            JPM Latin America Eq A (dist) USD price: 49.43 unit: 106.12 cost: 5052.50(  7724.9,  1) value: 5245.71 ret:0.0382
+ 9                                      JPM Russia A (dist) USD price: 10.58 unit: 577.90 cost: 6069.00( 34831.1,  9) value: 6114.18 ret:0.0074
+10                           JPM US Smlr Coms A (dist) perf USD price:228.97 unit: 105.19 cost:22607.96( 21421.1, 10) value:24086.27 ret:0.0654
+11                                   JPM US Growth A (dist) USD price: 14.62 unit:2284.98 cost:28948.86( 97551.4,  5) value:33406.47 ret:0.1540
+12                               JPM US Technology A (dist) USD price: 17.09 unit: 311.31 cost: 5054.00( 28322.8,  3) value: 5320.27 ret:0.0527
+13                                  JPM US Value A (dist) - USD price: 27.99 unit: 844.36 cost:21755.09( 52670.6,  3) value:23633.64 ret:0.0863
+14                                JPM Global Income A (acc) USD price:185.21 unit:   0.00 cost:    0.00( 27588.8,  3) value:    0.00 ret:-1.0000
+15                                   JPMorgan Korea (acc) - USD price: 63.13 unit:   0.00 cost:    0.00( 63467.9,  5) value:    0.00 ret:-1.0000
+16                            JPM US Aggregate Bond A (inc) USD price: 12.17 unit:   0.00 cost:    0.00(  6478.2,  1) value:    0.00 ret:-1.0000
+17                               JPM Greater China A (dist) USD price: 48.09 unit:   0.00 cost:    0.00( 18848.8,  8) value:    0.00 ret:-1.0000
+Buffer: 15130.07 Total cost:231182.05 Total value:244961.62 return:0.0596 asset:260091.6913
+
+=========================================================2018-01-09=========================================================
+ 0                              JPM America Equity A (dist) USD price:191.37 unit:  13.19 cost: 2321.16( 28939.0, 13) value: 2523.60 ret:0.0872
+ 1                               JPM Europe Dynamic A (acc) USD price:162.44 unit:  64.33 cost:10105.50( 32006.4,  2) value:10449.44 ret:0.0340
+ 2                               JPM Global Corp Bd A (acc) USD price: 17.18 unit:1469.12 cost:24962.00(103120.5,  2) value:25239.45 ret:0.0111
+ 3                         JPM Global High Yield Bd A (acc) USD price:172.86 unit:  89.30 cost:15153.50( 19089.4,  2) value:15435.71 ret:0.0186
+ 4                                   JPMorgan ASEAN (acc) - USD price:147.13 unit: 234.47 cost:33486.47( 61718.6,  4) value:34497.57 ret:0.0302
+ 5                                       JPM China A (dist) USD price: 70.79 unit:  86.05 cost: 6069.00(  4727.8,  1) value: 6091.27 ret:0.0037
+ 6                               JPM Europe Equity A (dist) USD price: 50.97 unit:  42.05 cost: 2021.40( 36215.5,  9) value: 2143.29 ret:0.0603
+ 7                                     JPMorgan India (acc) USD price:309.15 unit: 155.91 cost:45248.70( 68504.6,  3) value:48201.12 ret:0.0652
+ 8                            JPM Latin America Eq A (dist) USD price: 49.76 unit: 106.12 cost: 5052.50(  7673.6,  1) value: 5280.73 ret:0.0452
+ 9                                      JPM Russia A (dist) USD price: 10.56 unit: 577.90 cost: 6069.00( 34899.8,  9) value: 6102.62 ret:0.0055
+10                           JPM US Smlr Coms A (dist) perf USD price:227.89 unit: 105.19 cost:22607.96( 21522.6, 10) value:23972.66 ret:0.0604
+11                                   JPM US Growth A (dist) USD price: 14.57 unit:2284.98 cost:28948.86( 97886.1,  5) value:33292.22 ret:0.1500
+12                               JPM US Technology A (dist) USD price: 17.07 unit: 311.31 cost: 5054.00( 28356.0,  3) value: 5314.04 ret:0.0515
+13                                  JPM US Value A (dist) - USD price: 27.85 unit: 844.36 cost:21755.09( 52935.4,  3) value:23515.43 ret:0.0809
+14                                JPM Global Income A (acc) USD price:185.10 unit:   0.00 cost:    0.00( 27605.2,  3) value:    0.00 ret:-1.0000
+15                                   JPMorgan Korea (acc) - USD price: 63.12 unit:   0.00 cost:    0.00( 63477.9,  5) value:    0.00 ret:-1.0000
+16                            JPM US Aggregate Bond A (inc) USD price: 12.17 unit:   0.00 cost:    0.00(  6478.2,  1) value:    0.00 ret:-1.0000
+17                               JPM Greater China A (dist) USD price: 47.83 unit:   0.00 cost:    0.00( 18951.2,  8) value:    0.00 ret:-1.0000
+Buffer: 17455.26 Total cost:228855.14 Total value:242059.14 return:0.0577 asset:259514.4017
+
 =========================================================2018-01-08=========================================================
  0                              JPM America Equity A (dist) USD price:190.33 unit:  13.19 cost: 2321.16( 29097.1, 13) value: 2509.88 ret:0.0813
  1                               JPM Europe Dynamic A (acc) USD price:162.29 unit:  64.33 cost:10105.50( 32036.0,  2) value:10439.79 ret:0.0331
