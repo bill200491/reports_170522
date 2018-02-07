@@ -8,7 +8,7 @@
         {"units":86.047,  "cost":6069.00,  "minPay":2500, "slvRlt":"170601", "name":"JPM China A (dist) USD" },
         {"units":200.810, "cost":10422.11, "minPay":2500, "slvRlt":"180101", "name":"JPM Europe Equity A (dist) USD" },
         {"units":155.915, "cost":45248.70, "minPay":2500, "slvRlt":"171001", "name":"JPMorgan India (acc) USD" },
-        {"units":106.124, "cost":5052.50,  "minPay":2500, "slvRlt":"170801", "name":"JPM Latin America Eq A (dist) USD" },
+        {"units":106.124, "cost":5052.50,  "minPay":2500, "slvRlt":"171101", "name":"JPM Latin America Eq A (dist) USD" },
         {"units":577.900, "cost":6069.00,  "minPay":2500, "slvRlt":"170601", "name":"JPM Russia A (dist) USD" },
         {"units":76.244,  "cost":16386.12, "minPay":2500, "slvRlt":"171001", "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":2284.984,"cost":28948.86, "minPay":2500, "slvRlt":"171001", "name":"JPM US Growth A (dist) USD" },
