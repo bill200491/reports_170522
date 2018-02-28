@@ -12,7 +12,7 @@
         {"units":1822.284,"cost":23086.84, "minPay":2500, "slvRlt":"171001", "name":"JPM US Growth A (dist) USD" },
         {"units":668.851, "cost":11131.40, "minPay":2500, "slvRlt":"171101", "name":"JPM US Technology A (dist) USD" },
         {"units":667.730, "cost":18235.20, "minPay":2500, "slvRlt":"171101", "name":"JPM US Value A (dist) - USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171101", "name":"JPM Latin America Eq A (dist) USD" },
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170801", "name":"JPM Latin America Eq A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171101", "name":"JPM China A (dist) USD" },
 	{"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170801", "name":"JPM America Equity A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171001", "name":"JPM US Aggregate Bond A (inc) USD" },
