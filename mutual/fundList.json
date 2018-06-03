@@ -8,7 +8,6 @@
         {"units":449.005, "cost":22594.91, "minPay":2500, "slvRlt":"180101", "name":"JPM Europe Equity A (dist) USD" },
         {"units":43.307 , "cost":2028.80,  "minPay":2500, "slvRlt":"171101", "name":"JPM Greater China A (dist) USD" },
         {"units":14.451 , "cost":4091.42,  "minPay":2500, "slvRlt":"180101", "name":"JPMorgan India (acc) USD" },
-        {"units":192.057, "cost":12163.20, "minPay":2500, "slvRlt":"171101", "name":"JPMorgan Korea (acc) - USD" },
         {"units":239.121, "cost":12165.60, "minPay":2500, "slvRlt":"180101", "name":"JPM Latin America Eq A (dist) USD" },
         {"units":1134.026,"cost":30952.05, "minPay":2500, "slvRlt":"180301", "name":"JPM US Value A (dist) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"180101", "name":"JPM Russia A (dist) USD" },
@@ -17,6 +16,7 @@
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"180301", "name":"JPM China A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"180101", "name":"JPM Europe Dynamic A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"180101", "name":"JPM US Technology A (dist) USD" },
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171101", "name":"JPMorgan Korea (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"171001", "name":"JPM US Aggregate Bond A (inc) USD" }
     ],
     "fidelity":[
@@ -24,7 +24,7 @@
     ],
     "account":{
         "jpmorgan":
-        {"buffer":103091.05, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":10, "maxPay":6000, "tolPay":60000, "payMode":"cost"}
+        {"buffer":115384.86, "principal":230000.00, "minReturn":0.10, "leverage":5.0, "minPay":10, "maxPay":6000, "tolPay":60000, "payMode":"cost"}
     }
     
 }
