@@ -1,0 +1,210 @@
+=========================================================================== 2018-06-12 07:16:04 ================================================================================
+
+2018-04-30  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.018670 (rev:  140.554)  at price  149.050 on 2018-04-30
+2018-04-30  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.034378 (rev:  258.816 sels:0.78) at price  149.050 on 2018-04-30
+2018-04-25  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.026734 (rev:  198.934)  at price  147.320 on 2018-04-25
+2018-04-25  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.028925 (rev:  215.232 sels:0.56) at price  147.320 on 2018-04-25
+2018-04-18  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.024445 (rev:  186.146)  at price  150.760 on 2018-04-18
+2018-04-18  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.040778 (rev:  310.521 sels:0.99) at price  150.760 on 2018-04-18
+Key argument: buyGap: 0.03000  selGap: 0.05600  selRet: 0.28000  buyBnd:  8  selBnd:  5  a: 48.991 ret:0.12594
+fundSim_mdl06g-df4.bin 'JPMorgan ASEAN (acc) - USD' emulate 51 21 0 -5.282563677170742e-03  4.082822630102237e-01  3.779785218996631e-02  -1.555001596459555e-02  2.380952380952381e-02  2.380952380952381e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-02  2.800000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffffff3  0xffffffffffffff02 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-06-04  SELL '          JPM Europe Equity A (dist) USD' with ratio 0.008304 (rev:  183.327)  at price   49.170 on 2018-06-04
+2018-06-04  SELL '          JPM Europe Equity A (dist) USD' with ratio 0.008304 (rev:  183.327 sels:0.00) at price   49.170 on 2018-06-04
+Key argument: buyGap: 0.09000  selGap: 0.05000  selRet: 0.30000  buyBnd: 10  selBnd:  6  a: 50.688 ret:0.12728
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 26 20 0 -2.988271071486727e-01  4.965401287453584e-01  1.687171198507819e-02  -2.605639227227125e-02  9.250000000000000e-01  9.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  9.000000000000000e-02  3.000000000000000e-01  1.000000000000000e+01  6.000000000000000e+00  0xfffffffffffffff1  0xfffffffffffff101 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-05-18  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.144294 (rev:    0.000)  at price  236.140 on 2018-05-18
+2018-05-18  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  236.140 on 2018-05-18
+2018-04-27  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.091547 (rev:    0.000)  at price  229.440 on 2018-04-27
+2018-04-27  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  229.440 on 2018-04-27
+2018-04-23  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.125206 (rev:    0.000)  at price  231.170 on 2018-04-23
+2018-04-23  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  231.170 on 2018-04-23
+Key argument: buyGap: 0.06000  selGap: 0.07250  selRet: 0.29000  buyBnd:  6  selBnd:  4  a: 52.134 ret:0.15753
+fundSim_mdl06g-df4.bin 'JPM US Smlr Coms A (dist) perf USD' emulate 36 26 0 -1.940516750892791e-01  8.166707278906331e-02  4.878179942126439e-02  -5.107848945891063e-09  5.576923076923077e-01  7.115384615384616e-01  2.000000000000000e+00  2.000000000000000e+00  6.000000000000000e-02  2.900000000000000e-01  6.000000000000000e+00  4.000000000000000e+00  0xfffffffffffffff2  0xffffffffffff0f03 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-06-11 21:41:28 ================================================================================
+
+2018-04-30  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.018670 (rev:  140.554)  at price  149.050 on 2018-04-30
+2018-04-30  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.034378 (rev:  258.816 sels:0.78) at price  149.050 on 2018-04-30
+2018-04-25  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.026734 (rev:  198.934)  at price  147.320 on 2018-04-25
+2018-04-25  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.028925 (rev:  215.232 sels:0.56) at price  147.320 on 2018-04-25
+2018-04-18  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.024445 (rev:  186.146)  at price  150.760 on 2018-04-18
+2018-04-18  SELL '              JPMorgan ASEAN (acc) - USD' with ratio 0.040778 (rev:  310.521 sels:0.99) at price  150.760 on 2018-04-18
+Key argument: buyGap: 0.03000  selGap: 0.05600  selRet: 0.28000  buyBnd:  8  selBnd:  5  a: 48.991 ret:0.12618
+fundSim_mdl06g-df4.bin 'JPMorgan ASEAN (acc) - USD' emulate 51 21 0 -5.282563677170742e-03  4.082822630102237e-01  3.779785218996631e-02  -1.555001596459555e-02  2.380952380952381e-02  2.380952380952381e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-02  2.800000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffffff3  0xffffffffffffff02 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-06-04  SELL '          JPM Europe Equity A (dist) USD' with ratio 0.008304 (rev:  183.327)  at price   49.170 on 2018-06-04
+2018-06-04  SELL '          JPM Europe Equity A (dist) USD' with ratio 0.008304 (rev:  183.327 sels:0.00) at price   49.170 on 2018-06-04
+Key argument: buyGap: 0.09000  selGap: 0.05000  selRet: 0.30000  buyBnd: 10  selBnd:  6  a: 50.688 ret:0.12730
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 26 20 0 -2.988271071486727e-01  4.965401287453584e-01  1.687171198507819e-02  -2.605639227227125e-02  9.250000000000000e-01  9.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  9.000000000000000e-02  3.000000000000000e-01  1.000000000000000e+01  6.000000000000000e+00  0xfffffffffffffff1  0xfffffffffffff101 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-05-18  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.144294 (rev:    0.000)  at price  236.140 on 2018-05-18
+2018-05-18  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  236.140 on 2018-05-18
+2018-04-27  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.091547 (rev:    0.000)  at price  229.440 on 2018-04-27
+2018-04-27  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  229.440 on 2018-04-27
+2018-04-23  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.125206 (rev:    0.000)  at price  231.170 on 2018-04-23
+2018-04-23  SELL '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006 (rev:    0.000 sels:0.00) at price  231.170 on 2018-04-23
+Key argument: buyGap: 0.06000  selGap: 0.07250  selRet: 0.29000  buyBnd:  6  selBnd:  4  a: 52.134 ret:0.15736
+fundSim_mdl06g-df4.bin 'JPM US Smlr Coms A (dist) perf USD' emulate 36 26 0 -1.940516750892791e-01  8.166707278906331e-02  4.878179942126439e-02  -5.107848945891063e-09  5.576923076923077e-01  7.115384615384616e-01  2.000000000000000e+00  2.000000000000000e+00  6.000000000000000e-02  2.900000000000000e-01  6.000000000000000e+00  4.000000000000000e+00  0xfffffffffffffff2  0xffffffffffff0f03 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-06-10 05:31:11 ================================================================================
+
+2018-04-26  SELL  '              JPMorgan ASEAN (acc) - USD' with ratio 0.051327(  380.224)  at price  146.660 on 2018-04-26
+2018-04-26  SELL  '              JPMorgan ASEAN (acc) - USD' with ratio 0.051327(  380.224)  at price  146.660 on 2018-04-26
+2018-04-26  SELL  '              JPMorgan ASEAN (acc) - USD' with ratio 0.054605(  404.506 sels:0.36) at price  146.660 on 2018-04-26
+Key argument: buyGap: 0.08000  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a:282.320 ret:0.14384
+fundSim_mdl06g-df4.bin 'JPMorgan ASEAN (acc) - USD' emulate 106 40 0 -1.491609728301161e-01  2.232845424268487e-01  6.719797814966365e-02  -5.690747227987497e-02  5.125000000000000e-01  4.125000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  8.000000000000000e-02  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff303 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost   246.998 (a:189.811 buys:0.03) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost   246.998 (a:189.811 buys:0.03) at price   50.140 on 2018-05-16
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293)  at price   49.520 on 2018-05-08
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost   246.998 (a:189.811 buys:0.03) at price   50.140 on 2018-05-16
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293)  at price   49.520 on 2018-05-08
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293 sels:0.00) at price   49.520 on 2018-05-08
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost   246.998 (a:189.811 buys:0.03) at price   50.140 on 2018-05-16
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293)  at price   49.520 on 2018-05-08
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293 sels:0.00) at price   49.520 on 2018-05-08
+2018-04-25  BUY            JPM Europe Equity A (dist) USD with cost  9407.055 (a:189.811 buys:1.00) at price   49.560 on 2018-04-25
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost  2335.382 (a:189.811 buys:0.25) at price   50.140 on 2018-05-16
+2018-05-16  BUY            JPM Europe Equity A (dist) USD with cost   246.998 (a:189.811 buys:0.03) at price   50.140 on 2018-05-16
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293)  at price   49.520 on 2018-05-08
+2018-05-08  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(  410.293 sels:0.00) at price   49.520 on 2018-05-08
+2018-04-25  BUY            JPM Europe Equity A (dist) USD with cost  9407.055 (a:189.811 buys:1.00) at price   49.560 on 2018-04-25
+2018-04-25  BUY            JPM Europe Equity A (dist) USD with cost  1033.359 (a:189.811 buys:0.11) at price   49.560 on 2018-04-25
+Key argument: buyGap: 0.14000  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a:189.811 ret:0.13226
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 46 28 0 -1.093100824579595e-01  9.988342752334758e-02  2.313387045240179e-01  -2.305640678432626e-01  2.678571428571428e-01  3.035714285714285e-01  2.000000000000000e+00  2.000000000000000e+00  1.400000000000000e-01  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f3  0xffffffffffff03f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-05-03  SELL  '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.118287(    0.000)  at price  226.610 on 2018-05-03
+2018-05-03  SELL  '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.118287(    0.000)  at price  226.610 on 2018-05-03
+2018-05-03  SELL  '      JPM US Smlr Coms A (dist) perf USD' with ratio 0.041006(    0.000 sels:0.00) at price  226.610 on 2018-05-03
+Key argument: buyGap: 0.13000  selGap: 0.07250  selRet: 0.29000  buyBnd:  1  selBnd:  4  a:225.646 ret:0.16415
+fundSim_mdl06g-df4.bin 'JPM US Smlr Coms A (dist) perf USD' emulate 66 30 0 -3.800766294324996e-02  2.626799415977644e-02  1.786798385345911e-02  -1.914775661143421e-02  5.166666666666667e-01  5.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.300000000000000e-01  2.900000000000000e-01  1.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff2f2  0xffffffffffff02f2 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-06-08 05:52:06 ===========================================================================
+2018-06-05  SELL  '         JPM America Equity A (dist) USD' with ratio 0.122108 at price  192.360 on 2018-06-05
+2018-06-05  SELL  '         JPM America Equity A (dist) USD' with ratio 0.066964(0.61) at price  192.360 on 2018-06-05
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-31  SELL  '         JPM America Equity A (dist) USD' with ratio 0.110399 at price  189.400 on 2018-05-31
+2018-05-31  SELL  '         JPM America Equity A (dist) USD' with ratio 0.054153(0.35) at price  189.400 on 2018-05-31
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-07  SELL  '         JPM America Equity A (dist) USD' with ratio 0.075118 at price  187.220 on 2018-05-07
+2018-05-07  SELL  '         JPM America Equity A (dist) USD' with ratio 0.046313(0.15) at price  187.220 on 2018-05-07
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-02  SELL  '         JPM America Equity A (dist) USD' with ratio 0.095664 at price  185.020 on 2018-05-02
+2018-05-02  SELL  '         JPM America Equity A (dist) USD' with ratio 0.041006(0.00) at price  185.020 on 2018-05-02
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-04-20  BUY           JPM America Equity A (dist) USD with cost 10733.918 (a:250.467 buys:0.23) at price  188.470 on 2018-04-20
+2018-04-20  BUY           JPM America Equity A (dist) USD with cost 47205.499 (a:250.467 buys:1.00) at price  188.470 on 2018-04-20
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-05-24  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.035911 at price   49.440 on 2018-05-24
+2018-05-24  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   49.440 on 2018-05-24
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-05-16  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.034981 at price   50.140 on 2018-05-16
+2018-05-16  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   50.140 on 2018-05-16
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-04-26  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.032227 at price   49.700 on 2018-04-26
+2018-04-26  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   49.700 on 2018-04-26
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-04-23  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.036505 at price   50.250 on 2018-04-23
+2018-04-23  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   50.250 on 2018-04-23
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+=========================================================================== 2018-06-08 05:51:00 ===========================================================================
+2018-06-05  SELL  '         JPM America Equity A (dist) USD' with ratio 0.122108 at price  192.360 on 2018-06-05
+2018-06-05  SELL  '         JPM America Equity A (dist) USD' with ratio 0.066964(0.61) at price  192.360 on 2018-06-05
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-31  SELL  '         JPM America Equity A (dist) USD' with ratio 0.110399 at price  189.400 on 2018-05-31
+2018-05-31  SELL  '         JPM America Equity A (dist) USD' with ratio 0.054153(0.35) at price  189.400 on 2018-05-31
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-07  SELL  '         JPM America Equity A (dist) USD' with ratio 0.075118 at price  187.220 on 2018-05-07
+2018-05-07  SELL  '         JPM America Equity A (dist) USD' with ratio 0.046313(0.15) at price  187.220 on 2018-05-07
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-05-02  SELL  '         JPM America Equity A (dist) USD' with ratio 0.095664 at price  185.020 on 2018-05-02
+2018-05-02  SELL  '         JPM America Equity A (dist) USD' with ratio 0.041006(0.00) at price  185.020 on 2018-05-02
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+2018-04-20  BUY           JPM America Equity A (dist) USD with cost 10733.918 (a:250.467 buys:0.23) at price  188.470 on 2018-04-20
+2018-04-20  BUY           JPM America Equity A (dist) USD with cost 47205.499 (a:250.467 buys:1.00) at price  188.470 on 2018-04-20
+Key argument: buyGap: 0.11000  selGap: 0.06000  selRet: 0.24000  buyBnd:  5  selBnd:  4  a:250.467 ret:0.12645
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 21 16 0 -1.319028822449823e-01  1.178216773326987e-01  2.034436377465262e-02  -3.007883814393438e-02  2.812500000000000e-01  2.812500000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-01  2.400000000000000e-01  5.000000000000000e+00  4.000000000000000e+00  0xfffffffffffff021  0xffffffffffff0ff3 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-05-24  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.035911 at price   49.440 on 2018-05-24
+2018-05-24  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   49.440 on 2018-05-24
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-05-16  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.034981 at price   50.140 on 2018-05-16
+2018-05-16  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   50.140 on 2018-05-16
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-04-26  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.032227 at price   49.700 on 2018-04-26
+2018-04-26  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   49.700 on 2018-04-26
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+2018-04-23  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.036505 at price   50.250 on 2018-04-23
+2018-04-23  SELL  '          JPM Europe Equity A (dist) USD' with ratio 0.018453(0.00) at price   50.250 on 2018-04-23
+Key argument: buyGap: 0.17000  selGap: 0.05000  selRet: 0.25000  buyBnd:  1  selBnd:  5  a:233.571 ret:0.11685
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 116 83 0 -5.058264980859335e-02  5.023619063724024e-02  1.158816983044032e-01  -1.476336678470526e-01  5.000000000000000e-01  3.795180722891566e-01  2.000000000000000e+00  2.000000000000000e+00  1.700000000000000e-01  2.500000000000000e-01  1.000000000000000e+00  5.000000000000000e+00  0xffffffffffff0ff3  0xfffffffffffff303 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ii

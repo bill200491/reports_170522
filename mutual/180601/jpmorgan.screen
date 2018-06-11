@@ -1,0 +1,141 @@
+{
+    "JPM America Equity A (dist) USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' verify 36 34 0 -5.524897176920980e-03  4.767004588425103e-02  1.761781326575289e-01  -3.766106899346282e-02  5.147058823529411e-01  4.852941176470588e-01  2.000000000000000e+00  2.000000000000000e+00  1.800000000000000e-01  2.900000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xfffffffffffffff2  0xffffffffffffff03 ",
+        "fundName":"JPM America Equity A (dist) USD",
+        "modelName":"fundSim_mdl06g-df4.bin",
+        "simReport":{
+            "inp":[
+                36,
+                34,
+                0,
+                -0.0055248971769209804,
+                0.04767004588425103,
+                0.1761781326575289,
+                -0.03766106899346282,
+                0.5147058823529411,
+                0.4852941176470588,
+                2.0,
+                2.0,
+                0.18,
+                0.29,
+                10.0,
+                4.0,
+                "0xfffffffffffffff2",
+                "0xffffffffffffff03"
+            ],
+            "out":[
+                0.1289430287455989,
+                0.01428921355
+            ],
+            "status":"0x787bc31"
+        }
+    },
+    "JPM China A (dist) USD":{},
+    "JPM Europe Dynamic A (acc) USD":{},
+    "JPM Europe Equity A (dist) USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' verify 26 20 0 -2.988271071486727e-01  4.965401287453584e-01  1.687171198507819e-02  -2.605639227227125e-02  9.250000000000000e-01  9.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  9.000000000000000e-02  3.000000000000000e-01  1.000000000000000e+01  6.000000000000000e+00  0xfffffffffffffff1  0xfffffffffffff101 ",
+        "fundName":"JPM Europe Equity A (dist) USD",
+        "modelName":"fundSim_mdl06g-df4.bin",
+        "simReport":{
+            "inp":[
+                26,
+                20,
+                0,
+                -0.29882710714867267,
+                0.49654012874535836,
+                0.01687171198507819,
+                -0.026056392272271252,
+                0.925,
+                0.925,
+                2.0,
+                2.0,
+                0.09,
+                0.3,
+                10.0,
+                6.0,
+                "0xfffffffffffffff1",
+                "0xfffffffffffff101"
+            ],
+            "out":[
+                0.1275354552111837,
+                0.013258454768
+            ],
+            "status":"0x7c5ff11"
+        }
+    },
+    "JPM Global Corp Bd A (acc) USD":{},
+    "JPM Global High Yield Bd A (acc) USD":{},
+    "JPM Global Income A (acc) USD":{},
+    "JPM Greater China A (dist) USD":{},
+    "JPM Latin America Eq A (dist) USD":{},
+    "JPM Russia A (dist) USD":{},
+    "JPM US Aggregate Bond A (inc) USD":{},
+    "JPM US Growth A (dist) USD":{},
+    "JPM US Smlr Coms A (dist) perf USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM US Smlr Coms A (dist) perf USD' verify 36 26 0 -1.940516750892791e-01  8.166707278906331e-02  4.878179942126439e-02  -5.107848945891063e-09  5.576923076923077e-01  7.115384615384616e-01  2.000000000000000e+00  2.000000000000000e+00  6.000000000000000e-02  2.900000000000000e-01  6.000000000000000e+00  4.000000000000000e+00  0xfffffffffffffff2  0xffffffffffff0f03 ",
+        "fundName":"JPM US Smlr Coms A (dist) perf USD",
+        "modelName":"fundSim_mdl06g-df4.bin",
+        "simReport":{
+            "inp":[
+                36,
+                26,
+                0,
+                -0.19405167508927915,
+                0.08166707278906331,
+                0.04878179942126439,
+                -5.107848945891063e-09,
+                0.5576923076923077,
+                0.7115384615384616,
+                2.0,
+                2.0,
+                0.06,
+                0.29,
+                6.0,
+                4.0,
+                "0xfffffffffffffff2",
+                "0xffffffffffff0f03"
+            ],
+            "out":[
+                0.156994123416015,
+                0.016092753894
+            ],
+            "status":"0x37c8df21"
+        }
+    },
+    "JPM US Technology A (dist) USD":{},
+    "JPM US Value A (dist) - USD":{},
+    "JPMorgan ASEAN (acc) - USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPMorgan ASEAN (acc) - USD' verify 51 21 0 -5.282563677170742e-03  4.082822630102237e-01  3.779785218996631e-02  -1.555001596459555e-02  2.380952380952381e-02  2.380952380952381e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-02  2.800000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffffff3  0xffffffffffffff02 ",
+        "fundName":"JPMorgan ASEAN (acc) - USD",
+        "modelName":"fundSim_mdl06g-df4.bin",
+        "simReport":{
+            "inp":[
+                51,
+                21,
+                0,
+                -0.005282563677170742,
+                0.40828226301022374,
+                0.03779785218996631,
+                -0.015550015964595551,
+                0.023809523809523808,
+                0.023809523809523808,
+                2.0,
+                2.0,
+                0.03,
+                0.28,
+                8.0,
+                5.0,
+                "0xfffffffffffffff3",
+                "0xffffffffffffff02"
+            ],
+            "out":[
+                0.1261766565622656,
+                0.018259514482
+            ],
+            "status":"0x7c5fd11"
+        }
+    },
+    "JPMorgan India (acc) USD":{},
+    "JPMorgan Korea (acc) - USD":{}
+}
+
