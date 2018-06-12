@@ -103,7 +103,37 @@
         }
     },
     "JPM US Technology A (dist) USD":{},
-    "JPM US Value A (dist) - USD":{},
+    "JPM US Value A (dist) - USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM US Value A (dist) - USD' verify 71 23 0 -1.416858263118924e-03  3.079259665083796e-02  1.992893599600109e-01  -8.477101140707975e-06  1.521739130434783e-01  6.521739130434782e-02  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-02  2.400000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffffff2  0xffffffffffff0ff1 ",
+        "fundName":"JPM US Value A (dist) - USD",
+        "modelName":"fundSim_mdl06g-df4.bin",
+        "simReport":{
+            "inp":[
+                71,
+                23,
+                0,
+                -0.0014168582631189242,
+                0.03079259665083796,
+                0.1992893599600109,
+                -8.477101140707975e-06,
+                0.15217391304347827,
+                0.06521739130434782,
+                2.0,
+                2.0,
+                0.01,
+                0.24,
+                6.0,
+                6.0,
+                "0xfffffffffffffff2",
+                "0xffffffffffff0ff1"
+            ],
+            "out":[
+                0.1200743371638297,
+                0.014171705261
+            ],
+            "status":"0x796be21"
+        }
+    },
     "JPMorgan ASEAN (acc) - USD":{
         "cmd":"fundSim_mdl06g-df4.bin 'JPMorgan ASEAN (acc) - USD' verify 51 21 0 -5.282563677170742e-03  4.082822630102237e-01  3.779785218996631e-02  -1.555001596459555e-02  2.380952380952381e-02  2.380952380952381e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-02  2.800000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffffff3  0xffffffffffffff02 ",
         "fundName":"JPMorgan ASEAN (acc) - USD",

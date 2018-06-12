@@ -6,9 +6,9 @@
 	"jpmorgan":[
 		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xcccc", "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Smlr Coms A (dist) perf USD"},
 		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xa8cc", "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM America Equity A (dist) USD"},
-		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xcccc","isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Europe Equity A (dist) USD"},
-		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xcccc","isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan ASEAN (acc) - USD"},
-		{"endDate":"2008-06-01","isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Value A (dist) - USD"},
+		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xcccc", "isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Europe Equity A (dist) USD"},
+		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xcccc", "isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan ASEAN (acc) - USD"},
+		{"endDate":"2008-06-01","rvs":0.2, "selRet":0.3, "cst":"0xaccc", "isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Value A (dist) - USD"},
 		{"endDate":"2008-06-01","isin":"MU0129U00005", "id":"F0GBR060HM", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan India (acc) USD"},
 		{"endDate":"2008-06-01","isin":"LU0051755006", "id":"F0GBR04SN7", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM China A (dist) USD"},
 		{"endDate":"2008-06-01","isin":"LU0215049551", "id":"F0GBR064TY", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Russia A (dist) USD"},
