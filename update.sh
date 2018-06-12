@@ -1,14 +1,24 @@
 #!/bin/sh
 
-# dirName=180301
-# cd mutual
-# rm -rf $dirName
-# mkdir $dirName && cd $dirName
-# cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
-# cp -r ../../../elliot.mutual/$dirName/simList.json .
-# cd ..
-# cp -r ../../elliot.mutual/fundList.json .
-# cd ..
+dirName=180101
+cd mutual
+rm -rf $dirName
+mkdir $dirName && cd $dirName
+cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
+cd ..
+cp -r ../../elliot.mutual/fundList.json .
+cd ..
+
+dirName=180301
+cd mutual
+rm -rf $dirName
+mkdir $dirName && cd $dirName
+cp -r ../../../elliot.mutual/$dirName/report/jpmorgan* .
+cp -r ../../../elliot.mutual/$dirName/simList.json .
+cd ..
+cp -r ../../elliot.mutual/fundList.json .
+cd ..
 
 dirName=180601
 cd mutual
