@@ -1,19 +1,19 @@
 {
 	"constraints":{
-		"generic":{"retTol":0.0, "rvsRat":0.1, 	"dayAvgL":5,  "dayStDL":62, "minBuyL":1.0, "maxBuyL":12, "minSelL":1.0, "maxSelL":12, "lowBndL":4.0, "equBndL":62.0, "uprBndL":250.0, 
+		"generic":{"retTol":0.0, "rvsRat":0.1, 	"dayAvgL":5,  "dayStDL":124, "minBuyL":1.0, "maxBuyL":12, "minSelL":1.0, "maxSelL":12, "lowBndL":4.0, "equBndL":62.0, "uprBndL":250.0, 
 							"dayAvgH":10, "dayStDH":31, "minBuyH":4.0, "maxBuyH":12, "minSelH":4.0, "maxSelH":12, "lowBndH":8.0, "equBndH":62.0, "uprBndH":250.0
 		}
 	},
 	"jpmorgan":[
-		{"endDate":"2007-06-01", "diff":false, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Smlr Coms A (dist) perf USD"},
-		{"endDate":"2007-06-01", "diff":false, "rvs":0.1, "selRet":0.3, "cst":"0xff488c0", "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM America Equity A (dist) USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Smlr Coms A (dist) perf USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM America Equity A (dist) USD"},
 		{"endDate":"2007-06-01", "diff":false, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Europe Equity A (dist) USD"},
-		{"endDate":"2007-06-01", "diff":false, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan ASEAN (acc) - USD"},
-		{"endDate":"2007-06-01","isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Value A (dist) - USD"},
-		{"endDate":"2007-06-01","isin":"MU0129U00005", "id":"F0GBR060HM", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan India (acc) USD"},
-		{"endDate":"2007-06-01","isin":"LU0051755006", "id":"F0GBR04SN7", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM China A (dist) USD"},
-		{"endDate":"2007-06-01","isin":"LU0053687314", "id":"F0GBR04SNN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Latin America Eq A (dist) USD"},
-		{"endDate":"2007-06-01","isin":"LU0215049551", "id":"F0GBR064TY", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Russia A (dist) USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan ASEAN (acc) - USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Value A (dist) - USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"MU0129U00005", "id":"F0GBR060HM", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan India (acc) USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0051755006", "id":"F0GBR04SN7", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM China A (dist) USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff456c0", "isin":"LU0053687314", "id":"F0GBR04SNN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Latin America Eq A (dist) USD"},
+		{"endDate":"2007-06-01", "diff":true,  "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0215049551", "id":"F0GBR064TY", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Russia A (dist) USD"},
 		{"endDate":"2007-06-01","isin":"LU0117841782", "id":"F0GBR04M17", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Greater China A (dist) USD"},
 		{"endDate":"2007-06-01","isin":"HK0000055712", "id":"F0GBR055WV", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan Korea (acc) - USD"},
 		{"endDate":"2007-06-01","isin":"LU0119063898", "id":"F0GBR04BXT", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Growth A (dist) USD"},
