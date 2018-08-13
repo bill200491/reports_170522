@@ -96,7 +96,37 @@
     "JPM Global Corp Bd A (acc) USD":{},
     "JPM Global High Yield Bd A (acc) USD":{},
     "JPM Global Income A (acc) USD":{},
-    "JPM Greater China A (dist) USD":{},
+    "JPM Greater China A (dist) USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' verify 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 ",
+        "model":"fundSim_mdl06g-df4.bin",
+        "name":"JPM Greater China A (dist) USD",
+        "simReport":{
+            "inp":[
+                71,
+                50,
+                0,
+                -0.13427172175328064,
+                0.3865948049923803,
+                0.27581890911630813,
+                -0.05770957985930543,
+                0.75,
+                0.05,
+                2.0,
+                2.0,
+                0.022,
+                0.28,
+                6.0,
+                6.0,
+                "0xfffffffffffff1f1",
+                "0xffffffffffff0f01"
+            ],
+            "out":[
+                0.1419576404105541,
+                0.0086536272799
+            ],
+            "status":"0x888666a1"
+        }
+    },
     "JPM Latin America Eq A (dist) USD":{
         "cmd":"fundSim_mdl06g-df4.bin 'JPM Latin America Eq A (dist) USD' verify 146 54 0 -2.029625474227780e-04  3.162416897580469e-01  3.153440924011695e-01  -2.821657418375860e-01  7.129629629629629e-01  3.240740740740741e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  1.100000000000000e-01  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff1 ",
         "model":"fundSim_mdl06g-df4.bin",
@@ -286,6 +316,36 @@
             "status":"0x8ac74681"
         }
     },
-    "JPMorgan Korea (acc) - USD":{}
+    "JPMorgan Korea (acc) - USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' verify 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 ",
+        "model":"fundSim_mdl06g-df4.bin",
+        "name":"JPMorgan Korea (acc) - USD",
+        "simReport":{
+            "inp":[
+                176,
+                37,
+                0,
+                -0.002279873132087793,
+                0.035124234285420594,
+                0.10913131152009922,
+                -0.07280996695580923,
+                0.9324324324324325,
+                0.9324324324324325,
+                2.0,
+                2.0,
+                0.005,
+                0.28,
+                7.0,
+                2.0,
+                "0xffffffffffff0ff1",
+                "0xffffffffffffff01"
+            ],
+            "out":[
+                0.1216737440893778,
+                0.0090518018293
+            ],
+            "status":"0x888645a2"
+        }
+    }
 }
 
