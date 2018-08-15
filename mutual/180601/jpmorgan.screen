@@ -190,7 +190,37 @@
         }
     },
     "JPM US Aggregate Bond A (inc) USD":{},
-    "JPM US Growth A (dist) USD":{},
+    "JPM US Growth A (dist) USD":{
+        "cmd":"fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' verify 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 ",
+        "model":"fundSim_mdl06g-df4.bin",
+        "name":"JPM US Growth A (dist) USD",
+        "simReport":{
+            "inp":[
+                211,
+                150,
+                0,
+                -0.00025185246011315336,
+                0.023809617703896224,
+                0.20655689725422438,
+                -0.19563224869147045,
+                0.87,
+                0.023333333333333334,
+                2.0,
+                2.0,
+                0.003,
+                0.25,
+                7.0,
+                4.0,
+                "0xffffffffffff4ff3",
+                "0xfffffffffffff343"
+            ],
+            "out":[
+                0.1309023064958454,
+                0.012633033036
+            ],
+            "status":"0x8aa86681"
+        }
+    },
     "JPM US Smlr Coms A (dist) perf USD":{
         "cmd":"fundSim_mdl06g-df4.bin 'JPM US Smlr Coms A (dist) perf USD' verify 236 219 0 -4.059949539707007e-05  8.721633469364806e-02  1.992927712126030e-07  -1.860980566213773e-01  2.283105022831050e-03  7.534246575342465e-02  2.000000000000000e+00  2.000000000000000e+00  9.000000000000001e-03  3.000000000000000e-01  1.000000000000000e+01  3.000000000000000e+00  0xfffffffffffff3f3  0xffffffffffff4f43 ",
         "model":"fundSim_mdl06g-df4.bin",
