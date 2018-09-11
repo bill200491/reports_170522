@@ -1,12 +1,12 @@
 {
 	"constraints":{
 		"generic":{"retTol":0.0, "rvsRat":0.1, 	"dayAvgL":5,  "dayStDL":124, "minBuyL":1.0, "maxBuyL":12, "minSelL":1.0, "maxSelL":12, "lowBndL":4.0, "equBndL":62.0, "uprBndL":250.0, 
-							"dayAvgH":10, "dayStDH":31, "minBuyH":4.0, "maxBuyH":12, "minSelH":4.0, "maxSelH":12, "lowBndH":8.0, "equBndH":62.0, "uprBndH":250.0
+							"dayAvgH":5, "dayStDH":124, "minBuyH":1.5, "maxBuyH":12, "minSelH":1.5, "maxSelH":12, "lowBndH":4.0, "equBndH":62.0, "uprBndH":250.0
 		}
 	},
 	"jpmorgan":[
-		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Smlr Coms A (dist) perf USD"},
-		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM America Equity A (dist) USD"},
+		{"endDate":"2007-09-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff466c0", "isin":"LU0053697206", "id":"F0GBR04BXN", "date":"2006-06-01", "model":"fundSim_mdl06h-df4", "type":"generic", "name":"JPM US Smlr Coms A (dist) perf USD"},
+		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff444c0", "isin":"LU0053666078", "id":"F0GBR04SN3", "date":"2006-06-01", "model":"fundSim_mdl06h-df4", "type":"generic", "name":"JPM America Equity A (dist) USD"},
 		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0117904960", "id":"F0GBR05WRP", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM Europe Equity A (dist) USD"},
 		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"HK0000055555", "id":"F0GBR054N2", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPMorgan ASEAN (acc) - USD"},
 		{"endDate":"2007-06-01", "diff":true, "rvs":0.1, "selRet":0.3, "cst":"0xff446c0", "isin":"LU0119066131", "id":"F0GBR04BY1", "date":"2006-06-01", "model":"fundSim_mdl06g-df4", "type":"generic", "name":"JPM US Value A (dist) - USD"},
