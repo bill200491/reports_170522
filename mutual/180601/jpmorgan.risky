@@ -1,3 +1,1146 @@
+=========================================================================== 2018-10-03 10:23:41 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11526
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04283
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12729
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10142
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13547
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15733
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12043
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511)  at price   10.020 on 2018-09-27
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511 sels:1.00) at price   10.020 on 2018-09-27
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.11041
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13349
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14092
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-10-02 11:04:12 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11545
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04272
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12959
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10246
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13691
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15774
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12041
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511)  at price   10.020 on 2018-09-27
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511 sels:1.00) at price   10.020 on 2018-09-27
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.11036
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13414
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14105
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-10-01 11:07:38 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11531
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04283
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12959
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10220
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13691
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15774
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12041
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511)  at price   10.020 on 2018-09-27
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511 sels:1.00) at price   10.020 on 2018-09-27
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.11030
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13353
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14119
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-28 13:56:59 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11539
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04276
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12956
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10355
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13699
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15866
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12022
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511)  at price   10.020 on 2018-09-27
+2018-09-27  SELL '                 JPM Russia A (dist) USD' with selRt 0.450000 (rev: 4773.511 sels:1.00) at price   10.020 on 2018-09-27
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.11025
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13358
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14133
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-27 11:05:43 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11549
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04266
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12930
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10415
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13679
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15976
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12022
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10970
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13302
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14161
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-26 13:11:55 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11549
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04266
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12930
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10415
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13679
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15976
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12022
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10970
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13302
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14161
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-25 10:13:38 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11552
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04277
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12930
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10381
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13679
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.15976
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12022
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10951
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13229
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14175
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-23 22:10:36 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.650 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.173 (rev: 2266.650 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.071 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11571
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04287
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.506 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.040 (rev:  140.506 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.858 (rev:  140.506 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.203)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.673 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.764 (rev:  145.203 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.649 (rev:  322.673 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.13150
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10361
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.902 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.809 (rev:   82.902 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.954 (rev:   82.902 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13807
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.16017
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12004
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  4615.752 (rev:    0.000 buys:2.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  2367.604 (rev:    0.000 buys:1.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10886
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13312
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14189
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-21 10:07:29 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.527)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.527 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.296 (rev: 2266.527 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.296 (rev: 2266.527 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.017)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.017 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11564
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04276
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-07-25  SELL '           JPM Global Income A (acc) USD' with selRt 0.202500 (rev: 1879.941)  at price  182.530 on 2018-07-25
+2018-07-25  SELL '           JPM Global Income A (acc) USD' with selRt 0.202500 (rev: 1879.941 sels:1.00) at price  182.530 on 2018-07-25
+2018-07-25  BUY  '           JPM Global Income A (acc) USD' with cost  5787.603 (rev: 1879.941 buys:1.00) at price  182.530 on 2018-07-25
+2018-07-25  BUY  '           JPM Global Income A (acc) USD' with cost  5787.603 (rev: 1879.941 buys:1.00) at price  182.530 on 2018-07-25
+
+Key argument: buyLos: 0.00100  selGap: 0.05000  selRet: 0.15000  buyBnd:  3  selBnd:  3  a: 42.007 ret:0.06136
+fundSim_mdl06g-df4.bin 'JPM Global Income A (acc) USD' emulate 116 37 0 -1.575424913474455e-02  2.409467774131884e-02  3.633013574987717e-01  -1.400568087766231e-01  4.054054054054054e-02  3.108108108108108e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  1.500000000000000e-01  3.000000000000000e+00  3.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.494)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.494 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.051 (rev:  140.494 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.869 (rev:  140.494 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.191)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.646 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.776 (rev:  145.191 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.676 (rev:  322.646 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12879
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10329
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.881)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.881 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.830 (rev:   82.881 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.974 (rev:   82.881 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13639
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.16017
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.11995
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  6923.628 (rev:    0.000 buys:3.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  4735.207 (rev:    0.000 buys:2.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10896
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13275
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14203
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================== 2018-09-20 10:03:39 ================================================================================
+
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.527)  at price  203.050 on 2018-09-12
+2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.527 sels:2.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.296 (rev: 2266.527 buys:1.00) at price  203.050 on 2018-09-12
+2018-09-12  BUY  '         JPM America Equity A (dist) USD' with cost  3423.296 (rev: 2266.527 buys:1.00) at price  203.050 on 2018-09-12
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.017)  at price  195.700 on 2018-07-31
+2018-07-31  SELL '         JPM America Equity A (dist) USD' with selRt 0.091125 (rev:  983.017 sels:1.00) at price  195.700 on 2018-07-31
+
+Key argument: buyLos: 0.00300  selGap: 0.07500  selRet: 0.30000  buyBnd: 10  selBnd:  4  a: 28.022 ret:0.11560
+fundSim_mdl06g-df4.bin 'JPM America Equity A (dist) USD' emulate 96 41 0 -1.268518824822060e-01  7.355323812796258e-02  3.398607457192010e-01  -5.891376995250570e-02  1.097560975609756e-01  6.097560975609756e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  3.000000000000000e-01  1.000000000000000e+01  4.000000000000000e+00  0xffffffffffff0ff4  0xfffffffffffff404 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142)  at price   16.940 on 2018-08-27
+2018-08-27  SELL '          JPM Global Corp Bd A (acc) USD' with selRt 0.202500 (rev: 6070.142 sels:0.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+2018-08-27  BUY  '          JPM Global Corp Bd A (acc) USD' with cost  7338.998 (rev: 6070.142 buys:1.00) at price   16.940 on 2018-08-27
+
+Key argument: buyLos: 0.01600  selGap: 0.03000  selRet: 0.06000  buyBnd:  1  selBnd:  2  a:791.567 ret:0.04278
+fundSim_mdl06g-df4.bin 'JPM Global Corp Bd A (acc) USD' emulate 56 38 0 -1.285397371599929e-02  2.923856581227992e-02  5.582646825214894e-02  -3.642388888792825e-02  5.131578947368421e-01  5.131578947368421e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  6.000000000000000e-02  1.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff4f4  0xffffffffffffff34 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-07-25  SELL '           JPM Global Income A (acc) USD' with selRt 0.202500 (rev: 1879.941)  at price  182.530 on 2018-07-25
+2018-07-25  SELL '           JPM Global Income A (acc) USD' with selRt 0.202500 (rev: 1879.941 sels:1.00) at price  182.530 on 2018-07-25
+2018-07-25  BUY  '           JPM Global Income A (acc) USD' with cost  5787.603 (rev: 1879.941 buys:1.00) at price  182.530 on 2018-07-25
+2018-07-25  BUY  '           JPM Global Income A (acc) USD' with cost  5787.603 (rev: 1879.941 buys:1.00) at price  182.530 on 2018-07-25
+
+Key argument: buyLos: 0.00100  selGap: 0.05000  selRet: 0.15000  buyBnd:  3  selBnd:  3  a: 42.007 ret:0.06143
+fundSim_mdl06g-df4.bin 'JPM Global Income A (acc) USD' emulate 116 37 0 -1.575424913474455e-02  2.409467774131884e-02  3.633013574987717e-01  -1.400568087766231e-01  4.054054054054054e-02  3.108108108108108e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  1.500000000000000e-01  3.000000000000000e+00  3.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.494)  at price   56.540 on 2018-09-11
+2018-09-11  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  140.494 sels:0.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost 10132.051 (rev:  140.494 buys:6.00) at price   56.540 on 2018-09-11
+2018-09-11  BUY  '                  JPM China A (dist) USD' with cost  6707.869 (rev:  140.494 buys:4.00) at price   56.540 on 2018-09-11
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.008304 (rev:  145.191)  at price   58.430 on 2018-08-15
+2018-08-15  SELL '                  JPM China A (dist) USD' with selRt 0.018453 (rev:  322.646 sels:1.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  5162.776 (rev:  145.191 buys:3.00) at price   58.430 on 2018-08-15
+2018-08-15  BUY  '                  JPM China A (dist) USD' with cost  1446.676 (rev:  322.646 buys:1.00) at price   58.430 on 2018-08-15
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost 11240.934 (rev:    0.000 buys:6.00) at price   61.870 on 2018-08-03
+2018-08-03  BUY  '                  JPM China A (dist) USD' with cost  1873.489 (rev:    0.000 buys:1.00) at price   61.870 on 2018-08-03
+
+Key argument: buyLos: 0.01100  selGap: 0.04167  selRet: 0.25000  buyBnd:  6  selBnd:  6  a: 30.281 ret:0.12801
+fundSim_mdl06g-df4.bin 'JPM China A (dist) USD' emulate 96 30 0 -1.986227854729258e-02  3.664693699847241e-02  4.411412888664439e-02  -1.494115334737812e-01  8.166666666666667e-01  2.166666666666667e-01  2.000000000000000e+00  2.000000000000000e+00  1.100000000000000e-02  2.500000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2f21 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-09-13  BUY  '          JPM Europe Equity A (dist) USD' with cost  9313.360 (rev:    0.000 buys:8.00) at price   46.440 on 2018-09-13
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-21  BUY  '          JPM Europe Equity A (dist) USD' with cost  9507.890 (rev:    0.000 buys:8.00) at price   47.410 on 2018-08-21
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  9656.294 (rev:    0.000 buys:8.00) at price   48.150 on 2018-08-08
+2018-08-08  BUY  '          JPM Europe Equity A (dist) USD' with cost  7242.221 (rev:    0.000 buys:6.00) at price   48.150 on 2018-08-08
+
+Key argument: buyLos: 0.00700  selGap: 0.06000  selRet: 0.30000  buyBnd:  8  selBnd:  5  a: 25.068 ret:0.10220
+fundSim_mdl06g-df4.bin 'JPM Europe Equity A (dist) USD' emulate 76 48 0 -1.884205649084688e-01  8.180189162357415e-03  1.270686100182480e-01  -1.184517210219210e-01  7.187500000000000e-01  6.354166666666666e-01  2.000000000000000e+00  2.000000000000000e+00  7.000000000000000e-03  3.000000000000000e-01  8.000000000000000e+00  5.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0ff3 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.881)  at price   42.600 on 2018-08-10
+2018-08-10  SELL '          JPM Greater China A (dist) USD' with selRt 0.008304 (rev:   82.881 sels:0.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost 15606.830 (rev:   82.881 buys:4.00) at price   42.600 on 2018-08-10
+2018-08-10  BUY  '          JPM Greater China A (dist) USD' with cost  7761.974 (rev:   82.881 buys:2.00) at price   42.600 on 2018-08-10
+
+Key argument: buyLos: 0.02200  selGap: 0.04667  selRet: 0.28000  buyBnd:  6  selBnd:  6  a: 92.076 ret:0.13602
+fundSim_mdl06g-df4.bin 'JPM Greater China A (dist) USD' emulate 71 50 0 -1.342717217532806e-01  3.865948049923803e-01  2.758189091163081e-01  -5.770957985930543e-02  7.500000000000000e-01  5.000000000000000e-02  2.000000000000000e+00  2.000000000000000e+00  2.200000000000000e-02  2.800000000000000e-01  6.000000000000000e+00  6.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff0f01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-08-23  BUY  '                JPMorgan India (acc) USD' with cost  6817.492 (rev:    0.000 buys:1.00) at price  283.030 on 2018-08-23
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+2018-07-26  BUY  '                JPMorgan India (acc) USD' with cost  6828.331 (rev:    0.000 buys:1.00) at price  283.480 on 2018-07-26
+
+Key argument: buyLos: 0.01600  selGap: 0.15000  selRet: 0.30000  buyBnd:  4  selBnd:  2  a: 24.088 ret:0.16052
+fundSim_mdl06g-df4.bin 'JPMorgan India (acc) USD' emulate 216 20 0 -2.018087749609298e-03  4.796058621481676e-02  2.075121184120077e-01  -1.940829124379063e-01  1.750000000000000e-01  1.250000000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.600000000000000e-02  3.000000000000000e-01  4.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff1f1  0xffffffffffff2ff1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861)  at price   59.270 on 2018-08-10
+2018-08-10  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1810.861 sels:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-08-10  BUY  '              JPMorgan Korea (acc) - USD' with cost  2029.737 (rev: 1810.861 buys:1.00) at price   59.270 on 2018-08-10
+2018-07-23  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.202500 (rev:  807.876)  at price   58.760 on 2018-07-23
+2018-07-23  SELL '              JPMorgan Korea (acc) - USD' with selRt 0.450000 (rev: 1795.280 sels:1.00) at price   58.760 on 2018-07-23
+2018-07-23  BUY  '              JPMorgan Korea (acc) - USD' with cost  2999.676 (rev:  807.876 buys:1.00) at price   58.760 on 2018-07-23
+2018-07-23  BUY  '              JPMorgan Korea (acc) - USD' with cost  2012.272 (rev: 1795.280 buys:1.00) at price   58.760 on 2018-07-23
+
+Key argument: buyLos: 0.00500  selGap: 0.14000  selRet: 0.28000  buyBnd:  7  selBnd:  2  a: 64.798 ret:0.12000
+fundSim_mdl06g-df4.bin 'JPMorgan Korea (acc) - USD' emulate 176 37 0 -2.279873132087793e-03  3.512423428542059e-02  1.091313115200992e-01  -7.280996695580923e-02  9.324324324324325e-01  9.324324324324325e-01  2.000000000000000e+00  2.000000000000000e+00  5.000000000000000e-03  2.800000000000000e-01  7.000000000000000e+00  2.000000000000000e+00  0xffffffffffff0ff1  0xffffffffffffff01 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  9231.504 (rev:    0.000 buys:4.00) at price    9.660 on 2018-09-19
+2018-09-19  BUY  '                 JPM Russia A (dist) USD' with cost  6923.628 (rev:    0.000 buys:3.00) at price    9.660 on 2018-09-19
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  7102.811 (rev:    0.000 buys:3.00) at price    9.910 on 2018-08-08
+2018-08-08  BUY  '                 JPM Russia A (dist) USD' with cost  4735.207 (rev:    0.000 buys:2.00) at price    9.910 on 2018-08-08
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+2018-07-31  BUY  '                 JPM Russia A (dist) USD' with cost  2465.557 (rev:    0.000 buys:1.00) at price   10.320 on 2018-07-31
+
+Key argument: buyLos: 0.02500  selGap: 0.15000  selRet: 0.30000  buyBnd:  9  selBnd:  2  a:238.911 ret:0.10842
+fundSim_mdl06g-df4.bin 'JPM Russia A (dist) USD' emulate 116 27 0 -2.293119942906260e-02  5.577545748783139e-02  2.197623916622359e-02  -2.390190511084096e-02  2.037037037037037e-01  6.851851851851852e-01  2.000000000000000e+00  2.000000000000000e+00  2.500000000000000e-02  3.000000000000000e-01  9.000000000000000e+00  2.000000000000000e+00  0xfffffffffffff212  0xfffffffffffffff4 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-22  BUY  '              JPM US Growth A (dist) USD' with cost  6019.759 (rev:    0.000 buys:1.00) at price   16.330 on 2018-08-22
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+2018-08-08  BUY  '              JPM US Growth A (dist) USD' with cost  6027.132 (rev:    0.000 buys:1.00) at price   16.350 on 2018-08-08
+
+Key argument: buyLos: 0.00300  selGap: 0.06250  selRet: 0.25000  buyBnd:  7  selBnd:  4  a:368.632 ret:0.13208
+fundSim_mdl06g-df4.bin 'JPM US Growth A (dist) USD' emulate 211 150 0 -2.518524601131534e-04  2.380961770389622e-02  2.065568972542244e-01  -1.956322486914704e-01  8.700000000000000e-01  2.333333333333333e-02  2.000000000000000e+00  2.000000000000000e+00  3.000000000000000e-03  2.500000000000000e-01  7.000000000000000e+00  4.000000000000000e+00  0xffffffffffff4ff3  0xfffffffffffff343 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost     0.000 (rev:    0.000 buys:0.00) at price  154.990 on 2018-08-29
+2018-08-29  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3263.589 (rev:    0.000 buys:1.00) at price  154.990 on 2018-08-29
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost 28246.603 (rev:    0.000 buys:9.00) at price  149.050 on 2018-08-16
+2018-08-16  BUY  '          JPM Europe Dynamic A (acc) USD' with cost  3138.511 (rev:    0.000 buys:1.00) at price  149.050 on 2018-08-16
+
+Key argument: buyLos: 0.00100  selGap: 0.28000  selRet: 0.28000  buyBnd: 10  selBnd:  1  a: 21.057 ret:0.14217
+fundSim_mdl06g-df4.bin 'JPM Europe Dynamic A (acc) USD' emulate 241 32 0 -1.057278295845255e-02  5.660268728372957e-02  3.042177672362187e-01  -6.612564011171427e-03  5.156250000000000e-01  5.156250000000000e-01  2.000000000000000e+00  2.000000000000000e+00  1.000000000000000e-03  2.800000000000000e-01  1.000000000000000e+01  1.000000000000000e+00  0xffffffffffff0ff1  0xfffffffffffff1f1 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =========================================================================== 2018-09-19 10:10:21 ================================================================================
 
 2018-09-12  SELL '         JPM America Equity A (dist) USD' with selRt 0.202500 (rev: 2266.527)  at price  203.050 on 2018-09-12
